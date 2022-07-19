@@ -8,4 +8,7 @@ for x in range(10):
 
 e = 50
 f = 60
+g = 70
+
+
 
